@@ -14,10 +14,9 @@ The dashboard provides confidence scores, sentiment distribution visualizations,
 
 ## 🚀 Live Demo
 
-Add your deployed Streamlit URL here:
 
 ```text
-[https://your-app-name.streamlit.app](https://sentiment-analysis-review-app-cjmqtnok5jcvfqvmkbawrg.streamlit.app/)
+(https://sentiment-analysis-review-app-cjmqtnok5jcvfqvmkbawrg.streamlit.app/)
 ```
 
 ---
