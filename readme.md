@@ -12,12 +12,7 @@ The dashboard provides confidence scores, sentiment distribution visualizations,
 
 ---
 
-## 🚀 Live Demo
-
-
-```link
-https://sentiment-analysis-review-app-cjmqtnok5jcvfqvmkbawrg.streamlit.app/
-```
+🚀 [Live Demo](https://sentiment-analysis-review-app-cjmqtnok5jcvfqvmkbawrg.streamlit.app/)
 
 ---
 
