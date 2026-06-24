@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+nltk
+transformers
+torch
+scipy
+plotly
